@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLibrary", "LoggerLibrary\LoggerLibrary.csproj", "{62FED617-23A6-4B24-ABDC-7E97658BDBFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLibrary.Demo", "LoggerLibrary.Demo\LoggerLibrary.Demo.csproj", "{3D729561-FE3E-4D24-B885-03B38089A4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FED617-23A6-4B24-ABDC-7E97658BDBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FED617-23A6-4B24-ABDC-7E97658BDBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FED617-23A6-4B24-ABDC-7E97658BDBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FED617-23A6-4B24-ABDC-7E97658BDBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D729561-FE3E-4D24-B885-03B38089A4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D729561-FE3E-4D24-B885-03B38089A4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D729561-FE3E-4D24-B885-03B38089A4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D729561-FE3E-4D24-B885-03B38089A4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E5B463-5E16-4845-BC5E-66C6F1B824F3}
+	EndGlobalSection
+EndGlobal
