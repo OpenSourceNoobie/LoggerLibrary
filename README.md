@@ -1,6 +1,6 @@
 # Logger Library
 
-### A simple DLL that will allow you very simply log to a file asynchronously type of your extension type with ease (I Hope).
+### A simple DLL that will allow you very simply log to a file asynchronously with an extension type of your choice with relative ease (I Hope).
 
 ------
 
